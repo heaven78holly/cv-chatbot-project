@@ -1,0 +1,148 @@
+{
+  "personal": {
+    "name": "Pınar Hale Kara",
+    "title": "Management Information Systems Student at Boğaziçi University",
+    "location": "Istanbul, Turkey",
+    "email": "phalekara@gmail.com",
+    "phone": "",
+    "linkedin": "https://linkedin.com/in/pınar-hale-kara-642831322",
+    "github": "",
+    "website": "",
+    "about": "I am a Management Information Systems student at Boğaziçi University with a strong interest in marketing, strategy, business development, and management. I aim to build upon the experience gained through university projects and organizational initiatives to excel in the professional business world."
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Science in Management Information Systems",
+      "institution": "Boğaziçi University",
+      "graduation_year": "2024 – 2029 (Expected)",
+      "details": "Faculty of Economics and Administrative Sciences, Department of Management Information Systems (Yönetim Bilişim Sistemleri)."
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Türkiye İş Bankası Golden Youth Award (Altın Gençler Ödülü)",
+      "year": "2024",
+      "description": "Awarded by Türkiye İş Bankası in recognition of outstanding academic success in the national university entrance examination."
+    },
+    {
+      "title": "National University Entrance Exam (YKS) Top Ranking",
+      "year": "2024",
+      "description": "Ranked 13th nationwide in Turkey in the Verbal (Sözel) track and 117th nationwide in the Equal Weight (Eşit Ağırlık) track among over 3 million candidates."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Demo Day — Team Project",
+      "year": "2026",
+      "tech_stack": ["Digital Interface Concept", "Product Design", "InsurTech"],
+      "description": "Collaborated within a multidisciplinary team on the conceptual design and workflow of a digital interface aimed at building transparency and strengthening trust between insurance providers and policyholders.",
+      "link": ""
+    }
+  ],
+  "experience": [
+    {
+      "role": "Organization Team Member",
+      "organization": "Boğaziçi MIS Sisterhood",
+      "location": "Istanbul, Turkey",
+      "start_date": "2024",
+      "end_date": "2025",
+      "category": "Organizational Leadership",
+      "description": [
+        "Contributed to community planning, operations, and organizing student-led workshops and social activities."
+      ]
+    },
+    {
+      "role": "Event Support Specialist",
+      "organization": "BÜMED (Boğaziçi University Alumni Association)",
+      "location": "Istanbul, Turkey",
+      "start_date": "2025",
+      "end_date": "2026",
+      "category": "Event Management",
+      "description": [
+        "Welcomed distinguished guests, managed attendee check-in and orientation, and provided logistics coordination during major alumni events."
+      ]
+    },
+    {
+      "role": "University Team Member — Billiards",
+      "organization": "Boğaziçi University Billiards Team",
+      "location": "Istanbul, Turkey",
+      "start_date": "2024",
+      "end_date": "2024",
+      "category": "Athletics & Representation",
+      "description": [
+        "Represented Boğaziçi University in the billiards division during the 2024 UNILIG (University Sports League) national championships."
+      ]
+    }
+  ],
+  "volunteering": [
+    {
+      "role": "Cheerzone Event Volunteer",
+      "organization": "21st Istanbul Half Marathon",
+      "location": "Istanbul, Turkey",
+      "description": [
+        "Provided course encouragement and dynamic spectator engagement support in the designated Cheerzone area."
+      ]
+    },
+    {
+      "role": "Finish Line & Medal Distribution Volunteer",
+      "organization": "42nd Istanbul Marathon",
+      "location": "Istanbul, Turkey",
+      "description": [
+        "Assisted in coordinating medal distribution and participant support for finishing marathon runners at the historic finish line."
+      ]
+    }
+  ],
+  "skills": {
+    "office_productivity_tools": [
+      "Microsoft Excel (Intermediate)",
+      "Microsoft PowerPoint (Intermediate)",
+      "Microsoft Word (Intermediate)"
+    ],
+    "programming_and_tech": [
+      "Python (Basic / Elementary)",
+      "TypeScript (Basic / Elementary)"
+    ],
+    "core_business_interests": [
+      "Marketing & Strategy",
+      "Business Development",
+      "Operations & Management",
+      "Event Organization"
+    ]
+  },
+  "languages": [
+    {
+      "language": "Turkish",
+      "proficiency": "Native (Mother Tongue)"
+    },
+    {
+      "language": "English",
+      "proficiency": "Upper-Intermediate (~B2)"
+    },
+    {
+      "language": "Chinese (Mandarin)",
+      "proficiency": "HSK 1 Certified (Currently pursuing HSK 3 level)"
+    },
+    {
+      "language": "Italian",
+      "proficiency": "Elementary (A2)"
+    }
+  ],
+  "frequently_asked_questions": [
+    {
+      "question": "What is Pınar Hale Kara studying?",
+      "answer": "Pınar Hale Kara is an undergraduate student studying Management Information Systems (Yönetim Bilişim Sistemleri) at Boğaziçi University, with an expected graduation in 2029."
+    },
+    {
+      "question": "What are Pınar Hale Kara's top academic accomplishments?",
+      "answer": "Pınar ranked 13th nationwide in the Verbal track and 117th in the Equal Weight track in the 2024 Turkish National University Entrance Exam (YKS). She is also a recipient of the prestigious Türkiye İş Bankası Golden Youth Award (Altın Gençler Ödülü)."
+    },
+    {
+      "question": "What languages does Pınar Hale Kara speak?",
+      "answer": "Pınar is a native Turkish speaker, has ~B2 proficiency in English, holds an official HSK 1 certification in Chinese while continuing studies at HSK 3 level, and has elementary (A2) proficiency in Italian."
+    },
+    {
+      "question": "What are her professional interests?",
+      "answer": "Her primary career interests are in marketing, corporate strategy, business development, and management."
+    }
+  ]
+}
